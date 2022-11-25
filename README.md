@@ -12,11 +12,10 @@
 ```
 $ git clone git@github.com:SladBlack/Django.git
 ```
-  
-Устанавливаем:
+
+Устанавливаем зависимости (перейти в директорию, где лежит requirements.txt):
 ```
-$ pip install django
-$ pip install django-easy-maps
+$ pip install -r requirements.txt
 ```
 
 Команда для запуска проекта на localhost:<br>
